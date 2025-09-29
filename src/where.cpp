@@ -1,4 +1,5 @@
 #include <string>
+#include "where.hpp"
 
 int findInString(const std::string& str, char ch){
       for(size_t i = 0; i < str.size(); ++i){
