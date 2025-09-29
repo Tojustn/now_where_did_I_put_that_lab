@@ -3,5 +3,5 @@
 #include "src/where.hpp"
 
 int main() {
-  // Your driver program goes here
+    std::cout << findInString("Hello, World!", 'W') << std::endl;
 }
